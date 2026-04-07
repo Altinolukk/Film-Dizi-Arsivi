@@ -116,4 +116,4 @@
 - Tüm film/dizi ilişkileri (Oyuncular, Yönetmenler, Ödüller) N-N ilişki şeklindedir.  
 - Kullanıcılar yorum, favori ve izleme listesi özelliklerini rahatlıkla kullanabilir.  
 - **Foreign Key kullanımı**, tablolar arası veri tutarlılığını ve bütünlüğünü sağlar.
-
+  
